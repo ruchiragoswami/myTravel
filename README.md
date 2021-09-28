@@ -6,5 +6,3 @@
 5. Places are rated based on my experience and all the ratings are my personal thoughts
 
 
-## Link to the codeSandBox
-https://codesandbox.io/embed/travel-2-forked-2-ee2ib?fontsize=14&hidenavigation=1&theme=dark&view=editor
